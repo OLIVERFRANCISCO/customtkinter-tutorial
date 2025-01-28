@@ -1,4 +1,4 @@
-from customtkinter import *
+from customtkinter import CTk, CTkButton, set_appearance_mode, CTkImage
 from PIL import Image
 
 app = CTk()

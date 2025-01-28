@@ -1,4 +1,4 @@
-from customtkinter import *
+from customtkinter import CTk, CTkSlider
 
 app = CTk()
 app.geometry("500x400")

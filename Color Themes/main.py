@@ -3,7 +3,7 @@ from customtkinter import *
 app = CTk()
 app.geometry("500x400")
 
-set_default_color_theme("green")
+set_default_color_theme("dark-blue")
 
 CTkButton(master=app, text="Button").pack(pady=20, padx=20)
 CTkCheckBox(master=app, text="Check box").pack(pady=20, padx=20)
